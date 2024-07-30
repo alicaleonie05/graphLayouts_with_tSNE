@@ -11,7 +11,8 @@ We use openTSNE (https://opentsne.readthedocs.io/en/stable/) and NetworkX (https
 We input the normalized and symmetrized adjacency matrix of the graph, to the t-SNE optimization, which will use these affinities for optimization of a two-dimensional embedding.<br>
 
 <br>
-# Requirements:
+\textbf{Requirements}: <br>
+
 python 3.10.0 environment with<br>
 &nbsp; networkx 2.8.4 <br>
 &nbsp; openTSNE 0.6.2 <br>
