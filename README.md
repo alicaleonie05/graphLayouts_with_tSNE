@@ -10,9 +10,9 @@ methods. Therefore, we used an open source library for t-SNE for all our impleme
 and show embeddings of several distinct benchmark datasets which can be obtained without the
 need to develop a novel algorithm. We investigated the framework with different initializations, with altering the exaggeration value and varying the degree of freedom for the low-dimensional similarity t-kernel.<br>
 <br>
-Generate graph layouts of can_96 and dwt_1005 in Layouts_StructuralGraphsGraph using generateLayouts.ipynb<br>
+In this project we generate graph layouts of two structural datasets in Layouts_StructuralGraphsGraph using generateLayouts.ipynb<br>
 
-can_96 and dwt_1005 - Two structural datasets containing 96 nodes and 768 edges, and 1005 nodes and 8621 edges, respectively. Both are obtained from the SuiteSparse Matrix Collection (formerly: Florida Sparse Matrix Collection),
+Can_96 and dwt_1005 are two structural datasets containing 96 nodes and 768 edges, and 1005 nodes and 8621 edges, respectively. Both are obtained from the SuiteSparse Matrix Collection (formerly: Florida Sparse Matrix Collection),
 publicly available on https://sparse.tamu.edu/ (Davis and Hu 2011). For dwt_1005 c.f. https://math.nist.gov/MatrixMarket/data/Harwell-Boeing/dwt/dwt_1005.html. <br>
 
 We use openTSNE (https://opentsne.readthedocs.io/en/stable/) and NetworkX (https://networkx.org/) to obtain the two-dimensional graph layouts/embeddings.<br>
