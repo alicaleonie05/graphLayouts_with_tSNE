@@ -8,7 +8,7 @@ can_96 and dwt_1005 - Two structural datasets containing 96 nodes and 768 edges,
 publicly available on https://sparse.tamu.edu/ (Davis and Hu 2011). For dwt_1005 c.f. https://math.nist.gov/MatrixMarket/data/Harwell-Boeing/dwt/dwt_1005.html. <br>
 
 We use openTSNE (https://opentsne.readthedocs.io/en/stable/) and NetworkX (https://networkx.org/) to obtain the two-dimensional graph layouts/embeddings.<br>
-We input the normalized and symmetrized adjacency matrix of the graph, to the t-SNE optimization, which will use these affinities for optimization of a two-dimensional embedding.<br>
+We input the normalized and symmetrized adjacency matrix of the graph to the t-SNE optimization, which will use these affinities to obtain a two-dimensional embedding.<br>
 
 <br>
 <strong>Requirements</strong> <br>
