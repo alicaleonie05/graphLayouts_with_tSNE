@@ -25,3 +25,8 @@ python 3.10.0 environment with<br>
 &nbsp; networkx 2.8.4 <br>
 &nbsp; openTSNE 0.6.2 <br>
 &nbsp; sklearn 1.1.3 <br>
+
+<br>
+<br>
+This project comes from a laboratory rotation during my masters thesis in Neural Information Processing at the University of Tübingen.
+In this folder you also find the report and the slides for a presentation. 
