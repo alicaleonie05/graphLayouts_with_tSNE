@@ -1,4 +1,4 @@
-# Graph Layouts using t-SNE
+# Graph Layouts using t-SNE (Lab Rotation Project)
 
 Generating Graph Layouts using openTSNE.<br>
 <br>
