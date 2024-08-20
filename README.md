@@ -28,5 +28,5 @@ python 3.10.0 environment with<br>
 
 <br>
 <br>
-This project comes from a laboratory rotation during my masters thesis in Neural Information Processing at the University of Tübingen.
+This project comes from a laboratory rotation during my masters in Neural Information Processing at the University of Tübingen.
 In this folder you also find the report and the slides for a presentation. 
