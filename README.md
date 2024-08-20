@@ -1,6 +1,6 @@
-# Graph Layouts using t-SNE (Lab Rotation Project)
+# Graph Layouts Using t-SNE (Lab Rotation Project)
 
-Generating Graph Layouts using openTSNE.<br>
+Generating Graph Layouts Using openTSNE.<br>
 <br>
 Graphs are an ubiquitous form of data, used to describe for instance relationships in a
 social network or citations between papers. To obtain a reasonably good embedding of a graph
